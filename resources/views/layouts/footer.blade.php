@@ -32,7 +32,7 @@
             </a>
         </div>
         <div class="div-block-3 text-block-9">
-            <span class="text-span-5">© 2020. inspired by webflow 2.0 &amp; made possible by &nbsp; </span> <a href="{{url('/')}}">Prince Boateng Asare </a>
+            <span class="text-span-5">© 2021. inspired by webflow 2.0 &amp; made possible by &nbsp; </span> <a href="{{url('/')}}">Prince Boateng Asare </a>
         </div>
     </div>
 </div>
